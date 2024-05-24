@@ -12,3 +12,7 @@ git log --oneline : vemos los commit existentes en una sola linea
 git branch  : vemos las ramas que tiene nuestro proyecto
 git branch nombre de nueva rama : crear una nueva rama
 git checkout nombre de nueva rama : me paso a la nueva rama
+git checkout -b nombre de nueva rama : cro una rama nueva y me paso a ella
+git log --graph  :   muestra grafico ramas
+git branch -D nombre de rama : Borrar rama
+git merge nombre de la rama que quiero adherir a la actual. Debo estar parado en una rama para adherir lo de otra
