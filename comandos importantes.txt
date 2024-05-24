@@ -1,0 +1,6 @@
+git init : Sirve para indicar que esa carpeta es un repositorio git
+git status: Estatus de mi proyecto seguido por git, los rojos no han cambiado
+git add: le está dando seguimiento a un archivo, que cambios que uno quiere meter en la caja de seguimiento, stagin area
+git add .  : hace lo del git add pero para todos los archivos
+git commit -m "mensaje que yo quiera poner" : Lo que estaba en la caja de seguimiento lo pone como una version final al repositorio
+git log : documento que nos dice que se hizo en el commit
